@@ -4,6 +4,6 @@ A python program to alert when a particular set of word is heard by the system i
 Alerts each time the specified words are called.
 
 ## Libraries
-speechrecognition
-pyttsx3
+speechrecognition <br>
+pyttsx3 <br>
 beepy
